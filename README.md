@@ -10,7 +10,7 @@ Pickle
 
 ## Data Stats
 
-The training dataset includes 7,295 papers. We split the whole set into training (train), validation (dev), and test set wi
+The dataset includes 7,295 papers. We split the whole set into training (train), validation (dev), and test set. The distribution across the three sets:
 
 | Train         | Dev           | Test  |
 | ------------- |:-------------:| -----:|
