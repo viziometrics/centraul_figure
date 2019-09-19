@@ -1,6 +1,10 @@
 ## centraul_figure
 The data for "Identifying the Central Figure of a Scientific Paper"
 
+## Data Download Link
+
+https://drive.google.com/file/d/1ggsSXcUy5TayGbGNkxBjZZ8sDnBpEtUn/view?usp=sharing
+
 
 ## Requirements
 
